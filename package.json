@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennedyOdhiambo/Node_starter.git"
+  },
+  "author": "Kennedy Odhiambp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KennedyOdhiambo/Node_starter/issues"
+  },
+  "homepage": "https://github.com/KennedyOdhiambo/Node_starter#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
